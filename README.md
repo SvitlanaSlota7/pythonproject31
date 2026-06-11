@@ -1,1 +1,1 @@
-# pythonproject31
+SQL. Об'єднанням таблиць JOINS.
